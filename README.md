@@ -53,7 +53,7 @@ This is the portion that involves the most spaghetti code and most outrageously 
 
 Whenever a screenshot is taken and processed, it is saved into the local directory as "processed_image." My original method was by opening paint and zooming into 800% magnification. From here, we can choose which character to focus and here we are looking at the character "C". I've marked the top left and bottom right with red pixels. In this example the top left red pixel is in-line with the pixels of the character. The bottom right red pixel is just below the lowest and right most black pixel.
 
-![Letter Example with pixel markers](Images/Letter_Example.png)
+![Letter Example with pixel markers](Images/Letter_Example.PNG)
 
     The coordinates of each red pixel is recorded.
     
